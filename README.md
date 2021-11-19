@@ -1,2 +1,4 @@
 # diversity-space-hub
-Temp repo for collaborating on URM community
+
+- Potential reference points: https://github.com/orgs/EddieHubCommunity/repositories
+- 
