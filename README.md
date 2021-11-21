@@ -1,4 +1,3 @@
-# diversity-space-hub
+# friday four newlsetter issues
 
-- Potential reference points: https://github.com/orgs/EddieHubCommunity/repositories
-- 
+- [Issue #1](https://www.getrevue.co/profile/divyamohan/issues/friday-four-issue-1-833455)
